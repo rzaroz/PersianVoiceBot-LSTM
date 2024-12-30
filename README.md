@@ -18,3 +18,5 @@ This project implements a deep learning model to convert text input into audio o
 2. **Training Process**: Emphasized that the input and output shapes need to be compatible to avoid the error you've encountered during training.
 3. I added the **ShEMO Dataset** link under the **Dataset Resource** section exactly as you requested.
 Let me know if you need further adjustments!
+
+<a href="https://github.com/mansourehk/ShEMO.git">- Dataset Link</a>
